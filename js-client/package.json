@@ -10,7 +10,7 @@
     "browserify": "^16.5.2",
     "browserify-css": "^0.15.0",
     "cypress": "^7.2.0",
-    "i18next": "^19.8.5",
+    "i18next": "^19.9.2",
     "i18next-browser-languagedetector": "^2.2.4",
     "i18next-xhr-backend": "^1.5.1",
     "jquery": "^3.6.0",
